@@ -1,0 +1,22 @@
+questions_by_category = {
+    "cross_sectional": [
+        "What is the relationship between chronic migraine and fibromyalgia, and what percentage of patients experience both conditions?",
+        "How do both preventive medications and lifestyle changes work together to manage chronic migraine?"
+    ],
+    "keyword_heavy": [
+        "What are the CGRP monoclonal antibody treatments such as atogepant, eptinezumab, erenumab, fremanezumab, and galcanezumab used for?",
+        "What role do atenolol, propranolol, and verapamil play in chronic migraine treatment?"
+    ],
+    "semantic_contextual": [
+        "Why might someone with chronic migraine also struggle with depression and anxiety?",
+        "What does it mean for a migraine preventive treatment to actually work?"
+    ],
+    "structured_data": [
+        "What are the differences between migraine and tension-type headaches in terms of location, pain type, and duration?",
+        "What are all the comorbid conditions associated with chronic migraine?"
+    ],
+    "image_multimedia": [
+        "What gastrointestinal issues are shown alongside chronic migraine in the comorbidities section?",
+        "What age group is migraine most common in according to the statistics in the document?"
+    ]
+}
